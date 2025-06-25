@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@openbnb/mcp-server-airbnb": "^0.1.1",
+    "@playwright/mcp": "^0.0.29"
+  }
+}
