@@ -1,3 +1,7 @@
+
+![Uploading ChatGPT Image Jun 27, 2025, 03_02_28 PM.png…]()
+
+
 🧠 MCP Agent Demo (Beginner-Friendly)
 This project is a small experiment I built to explore how AI models can interact with real-world tools using something called MCP – Model Context Protocol.
 
